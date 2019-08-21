@@ -1,7 +1,7 @@
 const fs = require('fs-extra')
 const axios = require('axios')
 
-const GOOGLE_APP_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxmGjl76YSWUtMBrapRFat2KI_qdG3r31Zq6h_H4rNbSPUEA-zh/exec'
+const GOOGLE_APP_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwrgF6XCx_CEIhsdoHzoNpQX4xku0DK1CytNZxq9CfzxLlsOPyr/exec'
 
 const urls = [
   `${GOOGLE_APP_SCRIPT_URL}?entity=events`,
